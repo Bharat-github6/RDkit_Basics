@@ -49,7 +49,7 @@ smi
 
 Moreover we can convert RDkit molecule to InchiKey Replacing Smiles by InchiKey.
 ```python
-Chem.MOLToInchiKey(mol)
+Chem.MolToInchiKey(mol)
 ```
 
 ```
